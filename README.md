@@ -14,5 +14,6 @@ This is a basic calculator web application built with **React.js.** It allows us
 
 ## Peers Feedback ✔
 This React project received **positive feedback** from my peers, who were particularly impressed by the **project's design.**
+</br>
 ![Peers review](https://github.com/user-attachments/assets/4d138135-1138-4ef7-8f86-271da746be22)
 
