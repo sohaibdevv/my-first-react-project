@@ -10,7 +10,7 @@ This is a basic calculator web application built with **React.js.** It allows us
 * **User-friendly interface:** Clean and intuitive design for easy use. </br>
 
 ## Technologies Used:
-[![My Skills](https://skillicons.dev/icons?i=react,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,css,git,netlify)](https://skillicons.dev)
 
 ## Peers Feedback ✔
 This React project received **positive feedback** from my peers, who were particularly impressed by the **project's design.**
